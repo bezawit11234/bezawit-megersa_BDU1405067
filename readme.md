@@ -11,3 +11,6 @@ This portfolio project serves as a comprehensive overview of y skills, and exper
 ![Portfolio Project Image](bezawit.png)
 
 ## Deployment
+The project is deployed and accessible online. You can view it [here](https://66112e9e914aadcf7289c738--velvety-pothos-7ff5ed.netlify.app/).
+
+Feel free to explore and reach out for any inquiries or collaborations.
